@@ -9,7 +9,7 @@ title: 注意事项
 ```
 ---
 title: 我的第一篇博客
-tags: 技术, JavaScript, 教程
+tags: 介绍
 ---
 
 这里是Markdown正文内容...
